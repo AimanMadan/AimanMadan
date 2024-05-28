@@ -13,7 +13,7 @@ A passionate computer science student. Experienced in developing projects with A
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
 <br>
-
+<p align="center">
   <strong>🧰 Languages and Tools</strong>
 </p>
 
