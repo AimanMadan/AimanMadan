@@ -50,5 +50,7 @@ I'm a passionate computer science student with a knack for **Python** and **C++*
 
 <!--Design-->
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Draw.io" src="https://img.shields.io/badge/Draw.io-FF7F00?style=for-the-badge&logo=draw.io&logoColor=white"/>
+
 
 </p>
