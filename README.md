@@ -51,6 +51,14 @@ A passionate computer science student. Experienced in developing projects with A
 <!--Design-->
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="Draw.io" src="https://img.shields.io/badge/Draw.io-FF7F00?style=for-the-badge&logo=draw.io&logoColor=white"/>
+  <!-- FL Studio -->
+<img alt="FL Studio" src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=fl-studio&logoColor=white"/>
+
+<!-- MS Office -->
+<img alt="MS Office" src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
+<!-- Google Drive -->
+<img alt="Google Drive" src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
 
 
 </p>
