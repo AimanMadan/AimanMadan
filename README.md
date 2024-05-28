@@ -11,8 +11,9 @@ I'm a passionate computer science student with a knack for **Python** and **C++*
 💼 I'm open to collaborating on projects and learning new things. Feel free to reach out if you want to chat about code, design, music, or anything else!
 
 <p align="center">
-**`## Interesting things that I have learned...`**
-
+ <p text = bold;
+ Interesting things that I have learned...
+>
 
 
 <p align="center">
