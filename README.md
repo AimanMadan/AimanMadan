@@ -66,13 +66,5 @@ A passionate computer science student. Experienced in developing projects with A
 
 <br />
 
-### 📊 Stats
-
-<p align="center">
-
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimanMadan&show_icons=true&theme=react)
-</p>
-
 
 
