@@ -2,7 +2,7 @@
 
 **`very cool person (computer science 🖥️/ music 🎹)`**
 
-I'm a passionate computer science student with a knack for **Python** and **C++**. Experienced in developing projects with Arduino and Raspberry Pi platforms, and I'm currently diving into the world of **web development and design**.
+A passionate computer science student. Experienced in developing projects with Arduino and Raspberry Pi platforms, and I'm currently diving into the world of **web development and design**.
 
 🎨 I love the creative side of coding, especially when it involves **music** or **UI design**. I believe that a great user experience is a form of art, and I strive to bring that perspective into my projects.
 
