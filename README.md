@@ -1,4 +1,4 @@
-# Aiman Madan 👋
+# Aiman Madan 
 
 **`very cool person (computer science 🖥️/ music 🎹)`**
 
