@@ -66,11 +66,11 @@ A passionate computer science student. Experienced in developing projects with A
 
 </p>
 
-## My Stats
+
 <p align="center">
 <a href="https://github.com/AimanMadan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cptfares&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cptfares&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AimanMadan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AimanMadan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
