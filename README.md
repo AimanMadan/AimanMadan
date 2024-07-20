@@ -4,11 +4,11 @@
 
 A passionate computer science student. Experienced in developing projects with Arduino and Raspberry Pi platforms, and I'm currently diving into the world of **web development and automation**.
 
-🎨 I love coding, especially when it involves **music**. I believe that a great user experience is a form of art, and I strive to bring that perspective into my projects.
+ I love coding, especially when it involves **music**. I believe that a great user experience is a form of art, and I strive to bring that perspective into my projects.
 
-🎵 In my free time, you'll find me making music and experimenting with **analog gears**. I love exploring the intersection of technology and art, and I'm always looking for new ways to blend these two passions.
+ In my free time, you'll find me making music and experimenting with **analog gears**. I love exploring the intersection of technology and art, and I'm always looking for new ways to blend these two passions.
 
-💼 I'm open to collaborating on projects and learning new things. Feel free to reach out if you want to chat about code, design, music, or anything else!
+ I'm open to collaborating on projects and learning new things. Feel free to reach out if you want to chat about code, design, music, or anything else!
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
