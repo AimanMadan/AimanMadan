@@ -4,7 +4,7 @@
 
 A passionate computer science student. Experienced in developing projects with Arduino and Raspberry Pi platforms, and I'm currently diving into the world of **web development and automation**.
 
-🎨 I love the creative side of coding, especially when it involves **music** or **UI design**. I believe that a great user experience is a form of art, and I strive to bring that perspective into my projects.
+🎨 I love coding, especially when it involves **music**. I believe that a great user experience is a form of art, and I strive to bring that perspective into my projects.
 
 🎵 In my free time, you'll find me making music and experimenting with **analog gears**. I love exploring the intersection of technology and art, and I'm always looking for new ways to blend these two passions.
 
