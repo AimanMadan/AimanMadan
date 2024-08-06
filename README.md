@@ -21,6 +21,7 @@ My goal is to carve a successful career in tech and eventually become my own CEO
 <p align="center">
 
 <!--Programming languages-->
+  <img alt="Beautiful Soup" src="https://img.shields.io/badge/beautiful%20soup-3776AB?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
