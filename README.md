@@ -2,13 +2,9 @@
 
 **`very cool person (computer science 🖥️/ music 🎹)`**
 
-A passionate computer science student and aspiring full-stack developer. I specialize in Python, data structures and algorithms, web development (HTML, CSS, JS, React), and web automation with Selenium and Beautiful Soup.
+I have a knack for creating innovative web scraping tools and automation projects. Currently, as a Lab Assistant at CSUSM, I'm contributing to a PhD research study on students' reflections on AI-generated answers, where I develop and maintain data collection tools. I'm deeply interested in AI, ML, and staying updated with the latest tech trends. Outside of tech, I turn my passion for music production into a side hustle, collaborating with both famous and upcoming artists.
 
-I have a knack for creating innovative web scraping tools and automation projects. Currently, as a Lab Assistant at CSUSM, I'm contributing to a PhD research study on students' reflections on AI-generated answers, where I develop and maintain data collection tools.
-
-I'm deeply interested in AI, ML, and staying updated with the latest tech trends. Outside of tech, I turn my passion for music production into a side hustle, collaborating with both famous and upcoming artists.
-
-My goal is to carve a successful career in tech and eventually become my own CEO.
+My goal is to carve a successful career in the tech industry.
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
