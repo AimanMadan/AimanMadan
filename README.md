@@ -2,12 +2,17 @@
 
 **`Computer Science Major | CSUSM '25 | Machine Learning & AI Enthusiast`**
 
-Hi, I'm a passionate Software developer currently pursuing a Computer Science degree at California State University San Marcos, graduating in May 2025. My main focus is on machine learning and artificial intelligence, and I excel at creating innovative web scraping and automation tools.
+<p>
+    Hi, I'm a passionate Software developer currently pursuing a Computer Science degree at California State University San Marcos, graduating in May 2025. My main focus is on machine learning and artificial intelligence, and I excel at creating innovative web scraping and automation tools.
+  </p>
 
-Currently, as a Research Assistant at CSUSM, I am dedicated to enhancing convolutional neural network (CNN) models for detecting glioma grades from MRI scans. Utilizing advanced deep learning techniques with TensorFlow, I work on improving model accuracy and reliability to support breakthrough medical research.I also founded and serve as President of The AI Club @ CSUSM, where I lead initiatives that explore the frontiers of AI. I also channel my creativity into music production, collaborating with both established and emerging artists.
+  <p>
+    Currently, as a Research Assistant at CSUSM, I am dedicated to enhancing convolutional neural network (CNN) models for detecting glioma grades from MRI scans. Utilizing advanced deep learning techniques with TensorFlow, I work on improving model accuracy and reliability to support breakthrough medical research. I also founded and serve as President of The AI Club @ CSUSM, where I lead initiatives that explore the frontiers of AI. Additionally, I channel my creativity into music production, collaborating with both established and emerging artists.
+  </p>
 
-My goal is to make a meaningful impact in AI and drive technological advancements that can transform lives.
-
+  <p>
+    My goal is to make a meaningful impact in AI and drive technological advancements that can transform lives.
+  </p>
 
 <p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250304T051438Z&X-Amz-Expires=300&X-Amz-Signature=f187d5584803b1eab604b4a4dfed74c188d5e1e7d23e7e2cf6b70d84d78c5acf&X-Amz-SignedHeaders=host" width="1000">
