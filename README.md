@@ -2,9 +2,14 @@
 
 **`Computer Science Major | CSUSM '25 | Machine Learning & AI Enthusiast`**
 
-My main focus is on machine learning and artificial intelligence. I have a knack for creating innovative web scraping tools and automation projects. Currently, as a Research Assistant at CSUSM, I'm focused on improving CNN models for detecting glioblastoma grades from MRI scans. Outside of tech, I turn my passion for music production into a side hustle, collaborating with both famous and upcoming artists.
+Hi, I'm Aiman Madan—a passionate AI researcher and developer currently pursuing a Computer Science degree at California State University San Marcos, graduating in May 2025. My main focus is on machine learning and artificial intelligence, and I excel at creating innovative web scraping and automation tools.
 
-My goal is to make a meaningful impact and drive advancements in the field of AI.
+Currently, as a Research Assistant at CSUSM, I am dedicated to enhancing convolutional neural network (CNN) models for detecting glioma grades from MRI scans. Utilizing advanced deep learning techniques with TensorFlow, I work on improving model accuracy and reliability to support breakthrough medical research.
+
+Beyond my research, I founded and serve as President of The AI Club, where I lead initiatives that explore the frontiers of AI. I also channel my creativity into music production, collaborating with both established and emerging artists.
+
+My goal is to make a meaningful impact in AI and drive technological advancements that can transform lives.
+
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
