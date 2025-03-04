@@ -2,11 +2,9 @@
 
 **`Computer Science Major | CSUSM '25 | Machine Learning & AI Enthusiast`**
 
-Hi, I'm Aiman Madan—a passionate AI researcher and developer currently pursuing a Computer Science degree at California State University San Marcos, graduating in May 2025. My main focus is on machine learning and artificial intelligence, and I excel at creating innovative web scraping and automation tools.
+Hi, I'm a passionate Software developer currently pursuing a Computer Science degree at California State University San Marcos, graduating in May 2025. My main focus is on machine learning and artificial intelligence, and I excel at creating innovative web scraping and automation tools.
 
-Currently, as a Research Assistant at CSUSM, I am dedicated to enhancing convolutional neural network (CNN) models for detecting glioma grades from MRI scans. Utilizing advanced deep learning techniques with TensorFlow, I work on improving model accuracy and reliability to support breakthrough medical research.
-
-Beyond my research, I founded and serve as President of The AI Club, where I lead initiatives that explore the frontiers of AI. I also channel my creativity into music production, collaborating with both established and emerging artists.
+Currently, as a Research Assistant at CSUSM, I am dedicated to enhancing convolutional neural network (CNN) models for detecting glioma grades from MRI scans. Utilizing advanced deep learning techniques with TensorFlow, I work on improving model accuracy and reliability to support breakthrough medical research.I also founded and serve as President of The AI Club @ CSUSM, where I lead initiatives that explore the frontiers of AI. I also channel my creativity into music production, collaborating with both established and emerging artists.
 
 My goal is to make a meaningful impact in AI and drive technological advancements that can transform lives.
 
@@ -33,7 +31,6 @@ My goal is to make a meaningful impact in AI and drive technological advancement
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,8 +39,8 @@ My goal is to make a meaningful impact in AI and drive technological advancement
   <img alt="Draw.io" src="https://img.shields.io/badge/Draw.io-FF7F00?style=for-the-badge&logo=draw.io&logoColor=white"/>
   <img alt="FL Studio" src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=fl-studio&logoColor=white"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img alt="MS Office" src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img alt="Google Drive" src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+
 </p>
 
 <p align="center">
