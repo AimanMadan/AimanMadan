@@ -1,5 +1,4 @@
 # Aiman Madan 
-
 **`Computer Science Major | CSUSM '25 | Machine Learning & AI Enthusiast`**
 
 <p>
