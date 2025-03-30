@@ -24,7 +24,6 @@
 <p align="center">
 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img alt="Beautiful Soup" src="https://img.shields.io/badge/beautiful%20soup-3776AB?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
