@@ -2,9 +2,8 @@
 **`GenAI and shit`**
 
 <p>
-    Dev sets by day, DJ sets by night
+    I dj and make beats
     <br>
-    crafting code, mixing beats & designing vibes.
 </p>
 
 <p align="center">
