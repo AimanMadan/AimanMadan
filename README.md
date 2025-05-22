@@ -1,5 +1,5 @@
 # Aiman 
-**` GenAI and shit`**
+**`GenAI and shit`**
 
 <p>
     Dev sets by day, DJ sets by night
