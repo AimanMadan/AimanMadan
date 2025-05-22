@@ -2,7 +2,7 @@
 **`GenAI and shit`**
 
 <p>
-    I dj and make beats
+    I DJ and make beats
     <br>
 </p>
 
