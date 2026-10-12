@@ -16,8 +16,3 @@ Building:
 </p>
 
 
-<p align="center">
-  <img width="100%" src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=AimanMadan&theme=windows" />
-</p>
-
-
